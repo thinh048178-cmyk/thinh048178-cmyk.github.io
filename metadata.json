@@ -1,0 +1,5 @@
+{
+  "name": "FIGGA",
+  "description": "FIGGA (False Information Guarding Guide Action) is an AI-powered tool to verify the factual accuracy of information. It provides an unbiased analysis and cites its sources from the web.",
+  "requestFramePermissions": []
+}
